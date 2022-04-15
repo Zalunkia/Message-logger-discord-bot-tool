@@ -1,0 +1,2 @@
+# Message-logger-discord-bot-tool
+message logger tool. note: if your not using replit you can get rid of server.js and const keepAlive = require("./server"); keepAlive() from the code. if your using visual studio change bot.login(process.env.token) to bot.login("your token goes here you change this entire sentence to your token")  if your using repl go to the secrets section that looks like a key lock and then click it and add new secret and name it token and paste your token and then click ok. Do not replace bot.login(process.env.token) or else this wont work 
